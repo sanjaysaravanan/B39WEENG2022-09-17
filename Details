@@ -1,0 +1,69 @@
+Topics:
+
+  Pseudo classes/elements
+    hover --> change style on hover
+    visited --> click and hold
+    focus/focus-visible --> foucs on an element like input cursor focus
+    :before, :after --> used to create content before and after inner content
+                        works only for open and closing tags 
+
+  Flex-Box:
+    display: flex;
+      it takes over the control of the children (width & height)
+
+    direction -> row: children placed in single row
+      justify-content moves content horizontally
+        start
+        center
+        end
+        space-evenly
+        space-around
+        space-between
+      
+      align-items moves content vertically
+        start
+        center
+        end
+
+      flex-wrap:
+        wrap -> wrappes the children horizontally when a width reduces less than child width
+        nowrap -> shrinks the width of the children to accommodate inside parent
+    
+    direction -> column: children placed in single column
+      justify-content moves content vertically
+        start
+        center
+        end
+        space-evenly
+        space-around
+        space-between
+      
+      align-items moves content horizontally
+        start
+        center
+        end
+
+      flex-wrap:
+        wrap -> wrappes the children horizontally
+        nowrap -> shrinks the height of the children to accommodate inside parent
+
+  Parent Inherit
+
+  Gradient
+
+  GIT & Netlify ( Last 45 Mins )
+    GIT ---> is a tool used for **Source Control Management / version control** 
+
+      U --> untracked files
+      A --> Staged/Added to the memory
+
+
+    SCM Provider: remote
+      Github, Bitbucket, Gitlab etc...
+
+      local --> latop storage having the files (uses git for versioning)
+
+      remote --> github, bitbucket, gitlab (uses git for versioning)
+
+  Next Session:
+    CSS-Grid

@@ -47,7 +47,9 @@ Topics:
         wrap -> wrappes the children horizontally
         nowrap -> shrinks the height of the children to accommodate inside parent
 
-  Parent Inherit
+  Parent Inherit:
+    Inheriting the parent CSS properties from child elements/tags
+    eg: border: inherit; // takes parent value if any else default
 
   Gradient
 

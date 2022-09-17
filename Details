@@ -56,6 +56,7 @@ Topics:
 
       U --> untracked files
       A --> Staged/Added to the memory
+      M --> Modified
 
 
     SCM Provider: remote

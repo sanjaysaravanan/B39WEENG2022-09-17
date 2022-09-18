@@ -2,7 +2,8 @@ Topics:
 
   Pseudo classes/elements
     hover --> change style on hover
-    visited --> click and hold
+    ative --> click and hold
+    visited --> a link which is visited
     focus/focus-visible --> foucs on an element like input cursor focus
     :before, :after --> used to create content before and after inner content
                         works only for open and closing tags 
@@ -51,7 +52,7 @@ Topics:
     Inheriting the parent CSS properties from child elements/tags
     eg: border: inherit; // takes parent value if any else default
 
-  Gradient
+  Gradient --> mixing os colors for a gradient like background
 
   GIT & Netlify ( Last 45 Mins )
     GIT ---> is a tool used for **Source Control Management / version control** 
